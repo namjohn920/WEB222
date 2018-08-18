@@ -1,0 +1,65 @@
+/* Place all of your CSS Code in this file */
+
+/********************************************************************************* 
+*
+* WEB222 – Assignment #4a
+*
+* I declare that this assignment is my own work in accordance with Seneca 
+* Academic Policy. No part of this assignment has been copied manually or 
+* electronically from any other source (including web sites) or distributed to 
+* other students. 
+* 
+* Name: ___HyunKyu Nam_____ Student ID: 141031161_____ Date: __2018/07/16_______ 
+* 
+********************************************************************************/
+
+
+body {color: #420d09;}
+nav {background-color: #420d09;}
+footer {background-color: #420d09;}
+
+header {background-color: pink; padding-bottom: 0.1%;}
+
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+h1.app-title {font-family:'Indie Flower'; font-size: 45px; font-weight: bold;}
+
+div.main-table-container { 
+    background-color: ivory;
+    box-sizing: border-box;
+
+    
+    max-height: 800px;
+    overflow-y: scroll;}
+
+table.main-table-top th{
+    background-color: aliceblue;
+    margin:1px;
+    border: solid;
+    border-width: 0.5px;
+
+}
+
+
+
+tbody#main-table-body td img {
+    margin-left: -32.5%;
+   
+}
+tbody#main-table-body td h4 {
+ margin-left: -15%;
+ margin-top: -5%;
+}
+
+tbody#main-table-body td p {
+    margin-left: -15%;
+    margin-top: 0%;
+   }
+
+   tbody#main-table-body td p span {
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+    
+   }
+   
+ 
