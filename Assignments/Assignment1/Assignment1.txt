@@ -1,0 +1,1 @@
+JavaScript basic syntax, built‐in functions, and user defined functions
